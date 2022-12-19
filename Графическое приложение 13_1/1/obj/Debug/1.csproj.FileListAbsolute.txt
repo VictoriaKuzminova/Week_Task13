@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\bin\Debug\1.exe.config
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\bin\Debug\1.exe
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\bin\Debug\1.pdb
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\obj\Debug\_1.Form1.resources
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\obj\Debug\1.exe
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Графическое приложение\1\1\obj\Debug\1.pdb
