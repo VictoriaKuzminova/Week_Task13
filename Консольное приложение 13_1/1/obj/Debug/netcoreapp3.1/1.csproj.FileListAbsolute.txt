@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\bin\Debug\netcoreapp3.1\1.exe
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\bin\Debug\netcoreapp3.1\1.deps.json
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\bin\Debug\netcoreapp3.1\1.dll
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\bin\Debug\netcoreapp3.1\1.pdb
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\obj\Debug\netcoreapp3.1\1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\obj\Debug\netcoreapp3.1\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\obj\Debug\netcoreapp3.1\1.dll
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\obj\Debug\netcoreapp3.1\1.pdb
+C:\Users\user\Desktop\колледж\учебная практика 3 курс\неделя 4\задание 13\Консольное приложение\1\1\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache
